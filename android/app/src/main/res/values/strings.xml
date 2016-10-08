@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">KBEIYLCbC5VnCwz9jijFPOGV4Ac9N1Mu45WRZ</string>
     <string name="app_name">Registry</string>
 </resources>

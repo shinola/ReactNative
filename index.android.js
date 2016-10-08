@@ -29,7 +29,7 @@ class Registry extends Component {
       <Image 
       style={styles.stretch}
       source={require('./img/signin_bg.png')} />
-      <Text style={styles.welcome}>sign in to your</Text>
+      <Text style={styles.welcome}>hello sign in to your</Text>
       <Text style={styles.welcome2}>target.com account</Text>
       <Text style={styles.instructions}>Username</Text>
       <TextInput
